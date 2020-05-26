@@ -1,0 +1,13 @@
+.questions { 
+	border: 10px outset pink; 
+	
+}
+
+.question{ 
+	border: 5px outset lightblue; 
+	font-family: Arial, sans-serif;
+}
+
+.footer{ 
+	border: 5 px pink; 
+}
